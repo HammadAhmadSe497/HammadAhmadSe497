@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hammad Ahmed</h1>
 <h3 align="center">🎓 Software Engineering student from NTU, Faisalabad, Pakistan</h3>
-<img align ="right" alt ="coding" width ="400" src = "![image](https://github.com/HammadAhmadSe497/HammadAhmadSe497/assets/106104382/d6155598-89e2-4542-959e-54d501fd6c5f)
-">
+<img align ="right" alt ="coding" width ="400" src ="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammadahmadse497&label=Profile%20views&color=0e75b6&style=flat" alt="hammadahmadse497" /> </p>
 
