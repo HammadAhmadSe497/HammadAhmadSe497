@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning/doing **Flutter App Development**
 
 - 👯 I’m looking to collaborate with **Experienced Flutter Developer**
-- <img align ="right" alt ="coding" width ="400" src ="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align ="right" alt ="coding" width ="400" src ="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
 - 👨‍💻 All of my progress are available at [https://www.linkedin.com/in/hammad-ahmed-2211b3232/](https://www.linkedin.com/in/hammad-ahmed-2211b3232/)
