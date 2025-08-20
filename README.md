@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my progress are available at [https://www.linkedin.com/in/hammad-ahmed-2211b3232/](https://www.linkedin.com/in/hammad-ahmed-2211b3232/)
 
-- 💬 Ask me about **Ask me about Frontend Development and API's Integration**
+- 💬 Ask me about **Ask me Flutter Development**
 
 - 📫 How to reach me **dev.hammadahmed@gmail.com**
 
