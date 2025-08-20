@@ -7,7 +7,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hammadahmadse497" alt="hammadahmadse497" /></a> </p>
 
-- 🔭 I’m currently working on [EduCareerMap](A smart career & university guidance app that helps students discover the best programs, track admission deadlines, explore top universities, and follow a personalized career roadmap.)
+- 🔭 I’m currently working on [EduCareerMap App](https://github.com/HammadAhmadSe497/EduCareerMap)
+   (A smart career & university guidance app that helps students discover the best programs, track admission deadlines,            explore top universities, and follow a personalized career roadmap.)
 
 - 🌱 I’m currently learning/doing **Flutter App Development**
 
