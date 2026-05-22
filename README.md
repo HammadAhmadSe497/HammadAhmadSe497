@@ -1,4 +1,3 @@
-```md
 # Hi, I'm Hammad Ahmed 👋
 
 <h3 align="center">
@@ -13,13 +12,13 @@ Flutter Mobile App Developer | Building Scalable Ecommerce & Startup Application
 
 ## 🚀 About Me
 
-- 📱 Flutter Mobile App Developer
-- 🏗 Building scalable ecommerce & startup applications
-- 🔌 REST API & Backend Integration
-- 💳 Payment Gateway Integration
-- ☁ Firebase & Cloud Services
-- 🛠 Clean Architecture & Scalable Code
-- 🐧 Linux & Git Workflow Enthusiast
+* 📱 Flutter Mobile App Developer
+* 🏗 Building scalable ecommerce & startup applications
+* 🔌 REST API & Backend Integration
+* 💳 Payment Gateway Integration
+* ☁ Firebase & Cloud Services
+* 🛠 Clean Architecture & Scalable Code
+* 🐧 Linux & Git Workflow Enthusiast
 
 ---
 
@@ -28,36 +27,39 @@ Flutter Mobile App Developer | Building Scalable Ecommerce & Startup Application
 A production-level multi-vendor ecommerce ecosystem developed specifically for the furniture industry.
 
 ### ✨ Core Features
-- Customer Mobile Application
-- Vendor Management System
-- Support Team Panel
-- Product & Inventory Management
-- Order Tracking System
-- Role-Based Authentication
-- REST API Integration
+
+* Customer Mobile Application
+* Vendor Management System
+* Support Team Panel
+* Product & Inventory Management
+* Order Tracking System
+* Role-Based Authentication
+* REST API Integration
 
 ### 💳 Payment Integrations
-- JazzCash
-- PayFast
-- Bank Deposit System
+
+* JazzCash
+* PayFast
+* Bank Deposit System
 
 ### ⚙ Tech Stack
-- Flutter
-- PHP REST APIs
-- Oracle Database
-- Firebase
-- Git & GitHub
+
+* Flutter
+* PHP REST APIs
+* Oracle Database
+* Firebase
+* Git & GitHub
 
 ---
 
 ## 💡 Current Focus
 
-- Scalable Flutter Applications
-- Ecommerce Platforms
-- Marketplace Systems
-- Clean Architecture
-- API Integrations
-- CI/CD & Deployment
+* Scalable Flutter Applications
+* Ecommerce Platforms
+* Marketplace Systems
+* Clean Architecture
+* API Integrations
+* CI/CD & Deployment
 
 ---
 
@@ -71,14 +73,14 @@ A production-level multi-vendor ecommerce ecosystem developed specifically for t
 
 ## 📌 Featured Technologies
 
-- Flutter & Dart
-- Firebase Services
-- REST APIs
-- Oracle Database
-- PHP Backend APIs
-- Payment Gateway Integration
-- State Management
-- Git Version Control
+* Flutter & Dart
+* Firebase Services
+* REST APIs
+* Oracle Database
+* PHP Backend APIs
+* Payment Gateway Integration
+* State Management
+* Git Version Control
 
 ---
 
@@ -90,7 +92,7 @@ A production-level multi-vendor ecommerce ecosystem developed specifically for t
 </a>
 </p>
 
-📫 Email: **dev.hammadahmed@gmail.com**
+📫 Email: **[dev.hammadahmed@gmail.com](mailto:dev.hammadahmed@gmail.com)**
 
 ---
 
@@ -107,4 +109,3 @@ A production-level multi-vendor ecommerce ecosystem developed specifically for t
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HammadAhmadSe497&layout=compact&theme=tokyonight" />
 </p>
-```
